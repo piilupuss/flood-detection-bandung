@@ -16,9 +16,9 @@ This project develops a real-time flood detection system for Bandung City, Indon
 - Developed a prototype dashboard for real-time flood mapping.
 
 ## Methodology  
-![Workflow Diagram](docs/methodology.pdf)  
+![Workflow Diagram](docs/methodology.png)  
 
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/[YourUsername]/flood-detection-bandung.git
+   git clone https://github.com/piilupuss/flood-detection-bandung.git
