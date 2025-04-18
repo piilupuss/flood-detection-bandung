@@ -1,4 +1,4 @@
-# flood-detection-bandung
+# flood-detection-bandung (on progress)
 A real-time flood detection system for Bandung City, Indonesia, combining CCTV video analytics, deep learning, and geospatial data. Developed as part of a Master’s thesis in Information Engineering.
 
 # Real-Time Flood Detection in Bandung City  
